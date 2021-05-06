@@ -1,1 +1,2 @@
-# Trex-2
+# Chrome-Trex
+This is a game
